@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ed Makes Games</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 23 Aug 2023 08:59:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[edmakesgames]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 08:59:06 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with Right Sidebar</title>
+		<link>/post-right-sidebar/</link>
+		
+		<dc:creator><![CDATA[edmakesgames]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2020 07:36:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/sea01/?p=2027</guid>
+
+					<description><![CDATA[Mauris euismod efficitur viverra. Duis nec efficitur dui. Integer commodo, nisi eu tincidunt cursus, lectus ipsum posuere elit, non pulvinar]]></description>
+										<content:encoded><![CDATA[<p> <div class="bm-builder clearfix "><div id="" class="module col-12 module-id-1571732768191" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 60px;--top-mod-t: 0px;--bottom-mod-t: 60px;--top-mod-m:0px;--bottom-mod-m:30px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571732768191" class="text_block_centered "  style=""></p>
+<p>Beef landjaeger jowl pork loin pork belly turkey. Pancetta boudin alcatra, cow swine picanha burgdoggen tri-tip sirloin ribeye flank t-bone shankle hamburger. Ham shank sirloin swine fatback filet mignon. Pork belly beef doner tenderloin kevin leberkas meatloaf sausage turducken cupim andouille. Buffalo shank salami cupim pork belly biltong chicken. Drumstick turducken shankle jerky prosciutto kielbasa.</p>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571732768576" data-module-col="12"><div class="module-inside single-image-inside" style="--top-mod: 0px;--bottom-mod: 0px;--top-mod-t: 0px;--bottom-mod-t: 0px;--top-mod-m:0px;--bottom-mod-m:5px;" ><div class="single-image-out  "  ><figure class="single-image   single-image-full   " no><div class="ux-hover-wrap anima-wrap" style="padding-top:66.7%;"><span class="ux-hover-wrap-a"><img alt="" class="single-image-img img1st lazy " src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/wp-content/plugins/bm-builder/assets/images/no-image.png" data-srcset="" data-sizes="(max-width: 480px) 320px,(max-width: 767px) 500px,"  /></span></div></figure></div></div></div><div id="" class="module col-12 module-id-1571732768735" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 80px;--top-mod-t: 0px;--bottom-mod-t: 80px;--top-mod-m:0px;--bottom-mod-m:40px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571732768735" class="text_block_centered "  style=""></p>
+<p style="text-align: center; line-height: 1;"><span style="font-size: 14px;">a standard image</span></p>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571732769146" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 40px;--bottom-mod: 20px;--top-mod-t: 40px;--bottom-mod-t: 20px;--top-mod-m:0px;--bottom-mod-m:10px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571732769146" class="text_block_centered "  style=""></p>
+<h4>Heading 4</h4>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571732769184" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 40px;--top-mod-t: 0px;--bottom-mod-t: 40px;--top-mod-m:0px;--bottom-mod-m:20px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571732769184" class="text_block_centered "  style=""></p>
+<p>Chicken t-bone cow, pancetta shankle capicola swine. Ribeye pig alcatra leberkas shoulder. Spare ribs turducken bresaola landjaeger beef ribs beef. Salami brisket venison pancetta spare ribs rump turducken short ribs, sausage landjaeger. Prosciutto rump sirloin corned beef porchetta shank brisket frankfurter pastrami. Tenderloin ham rump corned beef drumstick, capicola ball tip strip steak cupim short loin shoulder.</p>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571732769275" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 20px;--top-mod-t: 0px;--bottom-mod-t: 20px;--top-mod-m:0px;--bottom-mod-m:10px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571732769275" class="text_block_centered "  style=""></p>
+<h5>Heading 5</h5>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571732769309" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 80px;--top-mod-t: 0px;--bottom-mod-t: 80px;--top-mod-m:0px;--bottom-mod-m:40px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571732769309" class="text_block_centered "  style=""></p>
+<p>Chicken t-bone cow, pancetta shankle capicola swine. Ribeye pig alcatra leberkas shoulder. Spare ribs turducken bresaola landjaeger beef ribs beef. Salami brisket venison pancetta spare ribs rump turducken short ribs, sausage landjaeger. <span style="font-size: 18px;">Prosciutto rump sirloin corned beef porchetta shank brisket frankfurter pastrami. Tenderloin ham rump corned beef drumstick, capicola ball tip strip steak cupim short loin shoulder.</span></p>
+<p></div></div></div></div></div></div></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Standard Post &#8211; No Sidebar</title>
+		<link>/post-no-sidebar/</link>
+		
+		<dc:creator><![CDATA[edmakesgames]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2020 07:38:55 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/sea01/?p=2031</guid>
+
+					<description><![CDATA[Mauris euismod efficitur viverra. Duis nec efficitur dui. Integer commodo, nisi eu tincidunt cursus, lectus ipsum posuere elit, non pulvinar.]]></description>
+										<content:encoded><![CDATA[<p> <div class="bm-builder clearfix "><div id="" class="module col-12 module-id-1571730260503" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 60px;--top-mod-t: 0px;--bottom-mod-t: 60px;--top-mod-m:0px;--bottom-mod-m:30px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571730260503" class="text_block_centered "  style=""></p>
+<p>Beef landjaeger jowl pork loin pork belly turkey. Pancetta boudin alcatra, cow swine picanha burgdoggen tri-tip sirloin ribeye flank t-bone shankle hamburger. Ham shank sirloin swine fatback filet mignon. Pork belly beef doner tenderloin kevin leberkas meatloaf sausage turducken cupim andouille. Buffalo shank salami cupim pork belly biltong chicken. Drumstick turducken shankle jerky prosciutto kielbasa.</p>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571730262385" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 40px;--bottom-mod: 20px;--top-mod-t: 40px;--bottom-mod-t: 20px;--top-mod-m:0px;--bottom-mod-m:10px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571730262385" class="text_block_centered "  style=""></p>
+<h4>Heading 4</h4>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571730262510" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 40px;--top-mod-t: 0px;--bottom-mod-t: 40px;--top-mod-m:0px;--bottom-mod-m:20px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571730262510" class="text_block_centered "  style=""></p>
+<p>Chicken t-bone cow, pancetta shankle capicola swine. Ribeye pig alcatra leberkas shoulder. Spare ribs turducken bresaola landjaeger beef ribs beef. Salami brisket venison pancetta spare ribs rump turducken short ribs, sausage landjaeger. Prosciutto rump sirloin corned beef porchetta shank brisket frankfurter pastrami. Tenderloin ham rump corned beef drumstick, capicola ball tip strip steak cupim short loin shoulder.</p>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571730262638" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 20px;--top-mod-t: 0px;--bottom-mod-t: 20px;--top-mod-m:0px;--bottom-mod-m:10px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571730262638" class="text_block_centered "  style=""></p>
+<h5>Heading 5</h5>
+<p></div></div></div></div></div></div><div id="" class="module col-12 module-id-1571730262755" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 80px;--top-mod-t: 0px;--bottom-mod-t: 80px;--top-mod-m:0px;--bottom-mod-m:40px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1571730262755" class="text_block_centered "  style=""></p>
+<p>Chicken t-bone cow, pancetta shankle capicola swine. Ribeye pig alcatra leberkas shoulder. Spare ribs turducken bresaola landjaeger beef ribs beef. Salami brisket venison pancetta spare ribs rump turducken short ribs, sausage landjaeger. <span style="font-size: 18px;">Prosciutto rump sirloin corned beef porchetta shank brisket frankfurter pastrami. Tenderloin ham rump corned beef drumstick, capicola ball tip strip steak cupim short loin shoulder.</span></p>
+<p></div></div></div></div></div></div></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Video Post</title>
+		<link>/video-post/</link>
+					<comments>/video-post/#respond</comments>
+		
+		<dc:creator><![CDATA[edmakesgames]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2020 07:42:33 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/sea01/?p=2035</guid>
+
+					<description><![CDATA[Mauris euismod efficitur viverra. Duis nec efficitur dui. Integer commodo, nisi eu tincidunt cursus, lectus ipsum posuere elit, non pulvinar.]]></description>
+										<content:encoded><![CDATA[
+<p>The video format post supports Youtube and Vimeo embed code.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/video-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with Left Sidebar</title>
+		<link>/post-left-bar/</link>
+		
+		<dc:creator><![CDATA[edmakesgames]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2020 07:23:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/sea01/?p=2006</guid>
+
+					<description><![CDATA[Duis nec efficitur dui. Integer commodo, nisi eu tincidunt cursus, lectus ipsum posuere elit, non pulvinar.]]></description>
+										<content:encoded><![CDATA[<p> <div class="bm-builder clearfix "><div id="" class="module col-12 module-id-1547526513616" data-module-col="12"><div class="module-inside text-inside" style="--top-mod: 0px;--bottom-mod: 0px;--top-mod-t: 0px;--bottom-mod-t: 0px;--top-mod-m:0px;--bottom-mod-m:0px;" ><div class="text_block_out"  data-effect="standard" style=""><div class="text_block ux-mod-nobg"><div class="text_block_inn"><div id="text-1547526513616" class="text_block_centered "  style="">A WordPress Theme is a collection of files that work together to produce a graphical interface with an underlying unifying design for a weblog. These files are called template files. A Theme modifies the way the site is displayed, without modifying the underlying software. </div></div></div></div></div></div></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
